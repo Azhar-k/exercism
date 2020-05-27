@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DiamondPrinterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-05-27T02:54:39" hostname="azhar-Aspire-E5-573" time="0.114">
+  <properties/>
+  <testcase name="testFourByFourDiamond" classname="DiamondPrinterTest" time="0.099"/>
+  <testcase name="testFullDiamond" classname="DiamondPrinterTest" time="0.008"/>
+  <testcase name="testThreeByThreeDiamond" classname="DiamondPrinterTest" time="0.002"/>
+  <testcase name="testOneByOneDiamond" classname="DiamondPrinterTest" time="0.001"/>
+  <testcase name="testTwoByTwoDiamond" classname="DiamondPrinterTest" time="0.003"/>
+  <system-out><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
